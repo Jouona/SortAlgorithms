@@ -1,0 +1,14 @@
+C:\Users\jouon\RiderProjects\SortAlgorhithms\SortAlgorhithms\bin\Debug\net8.0\SortAlgorhithms.exe
+C:\Users\jouon\RiderProjects\SortAlgorhithms\SortAlgorhithms\bin\Debug\net8.0\SortAlgorhithms.deps.json
+C:\Users\jouon\RiderProjects\SortAlgorhithms\SortAlgorhithms\bin\Debug\net8.0\SortAlgorhithms.runtimeconfig.json
+C:\Users\jouon\RiderProjects\SortAlgorhithms\SortAlgorhithms\bin\Debug\net8.0\SortAlgorhithms.dll
+C:\Users\jouon\RiderProjects\SortAlgorhithms\SortAlgorhithms\bin\Debug\net8.0\SortAlgorhithms.pdb
+C:\Users\jouon\RiderProjects\SortAlgorhithms\SortAlgorhithms\obj\Debug\net8.0\SortAlgorhithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jouon\RiderProjects\SortAlgorhithms\SortAlgorhithms\obj\Debug\net8.0\SortAlgorhithms.AssemblyInfoInputs.cache
+C:\Users\jouon\RiderProjects\SortAlgorhithms\SortAlgorhithms\obj\Debug\net8.0\SortAlgorhithms.AssemblyInfo.cs
+C:\Users\jouon\RiderProjects\SortAlgorhithms\SortAlgorhithms\obj\Debug\net8.0\SortAlgorhithms.csproj.CoreCompileInputs.cache
+C:\Users\jouon\RiderProjects\SortAlgorhithms\SortAlgorhithms\obj\Debug\net8.0\SortAlgorhithms.dll
+C:\Users\jouon\RiderProjects\SortAlgorhithms\SortAlgorhithms\obj\Debug\net8.0\refint\SortAlgorhithms.dll
+C:\Users\jouon\RiderProjects\SortAlgorhithms\SortAlgorhithms\obj\Debug\net8.0\SortAlgorhithms.pdb
+C:\Users\jouon\RiderProjects\SortAlgorhithms\SortAlgorhithms\obj\Debug\net8.0\SortAlgorhithms.genruntimeconfig.cache
+C:\Users\jouon\RiderProjects\SortAlgorhithms\SortAlgorhithms\obj\Debug\net8.0\ref\SortAlgorhithms.dll
